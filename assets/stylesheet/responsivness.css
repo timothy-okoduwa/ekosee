@@ -1,0 +1,112 @@
+@media screen and (max-width: 768px) {
+    .spacing{
+        margin-left: auto;
+    }
+    .aff{
+        font-family: 'Plus Jakarta Sans';
+        color: white;
+    font-style: normal;
+    margin-top: 33px;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 50px;
+    }
+    .quality{
+        font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    }
+    .company1{
+        margin-left: 4%;
+    }
+    .holder{
+        margin-left: 4%;
+    }
+}
+/* 
+@media screen and (min-width: 2000px) {
+.sfitt{
+    padding-left: 10%;
+    color: blue;
+}
+    .move{
+
+        width: 44%;
+    }
+    .font{
+        font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    width: 60%;
+    margin-left:-19%;
+
+
+    color: #FFFFFF;
+    }
+    .icon{
+        padding-left: 60%;
+        width: 80%;
+    }
+    .butt{
+        width: 185px;
+    height: 66px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+
+    border-radius: 5px;
+    }
+    .shift{
+
+        width: 90%;
+    }
+} */
+
+
+
+@media screen and (min-width:1440px){
+    .icon{
+        margin-left: 18%;
+    }
+    .fonts{
+        font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 18px;
+    
+    
+    color: #FFFFFF;
+    }
+    .akoba{
+        margin-left: -50px;
+    }
+}
+
+
+@media screen and (max-width:1440px){
+    .icon{
+        margin-left: -5%;
+    }
+
+}
+@media screen and (min-width:2560px){
+    .fonts{
+        font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 18px;
+    
+    
+    color: #FFFFFF;
+    }
+    .spacing{
+        margin-left: 0%;
+    }
+    
+}
